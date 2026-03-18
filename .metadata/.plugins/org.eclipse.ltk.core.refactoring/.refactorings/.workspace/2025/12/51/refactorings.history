@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Copy Project &apos;s9-a81-construtores&apos;" description="Copy Project &apos;s9-a81-construtores&apos;" destination="C:/ws-eclipse" element="/s9-a81-construtores" flags="7" id="org.eclipse.ltk.core.refactoring.copyproject.resource" name="s9-a85-encapsulamento" stamp="1765854640655"/>&#x0A;<refactoring comment="Copy Project &apos;s9-a85-encapsulamento&apos;" description="Copy Project &apos;s9-a85-encapsulamento&apos;" destination="C:/ws-eclipse" element="/s9-a85-encapsulamento" flags="7" id="org.eclipse.ltk.core.refactoring.copyproject.resource" name="s9-a87-modificadores-de-acesso" stamp="1766144492140"/>
+</session>
